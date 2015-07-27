@@ -7,4 +7,8 @@ public class MyTestClass {
 		System.out.print("123");
 	}
 
+	public void myTest() {
+		// TODO Auto-generated method stub
+		System.out.print("123");
+	}
 }
